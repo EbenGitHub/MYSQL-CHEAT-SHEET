@@ -424,3 +424,4 @@ SELECT select_list
 FROM table_name
 WHERE column RLIKE 'regular_expression';
 ```
+__MY__ _sql_
