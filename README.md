@@ -424,4 +424,6 @@ SELECT select_list
 FROM table_name
 WHERE column RLIKE 'regular_expression';
 ```
-__MY__ _sql_
+__MYsql__
+#
+_EbenGitHub_
