@@ -28,7 +28,7 @@ mysql> system clear;
 #
 #
 
-####__Working with databases__
+#### __Working with databases__
 > Create a database with a specified name if it does not exist in the database server
 ```bash
 CREATE DATABASE [IF NOT EXISTS] database_name;
